@@ -7,6 +7,10 @@ h1, h2, h3, p {
     line-height: 1.1;
 }
 
+.thirdc h1 {
+    line-height: 1;
+}
+
 div {
     text-align: center;
 }
@@ -67,7 +71,7 @@ div {
 }
 
 .rect {
-	width: 180px;
+	width: 80%;
 	height: 20px;
 	background-color: #333;
     display: flex;

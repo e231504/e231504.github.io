@@ -3,10 +3,12 @@ function a() {
         $('a').className = 'thirda';
         $('b').className = 'thirdb';
         $('c').className = 'thirdc';
+        $('0').style.height = '90vh';
     } else {
         $('a').className = 'full';
         $('b').className = 'full';
         $('c').className = 'full';
+        $('0').style.height = 'auto';
     }
 }
 
