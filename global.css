@@ -25,6 +25,11 @@ html, body {
     top: 5vh;
     left: 5vw;
     background-color: #000;
+    overflow-y: scroll;
+}
+
+.page::-webkit-scrollbar {
+    display:none;
 }
 
 .title {
