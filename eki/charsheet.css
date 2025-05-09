@@ -15,26 +15,6 @@ div {
     text-align: center;
 }
 
-.thirda {
-    width: calc(30vw - 20px);
-    position: absolute;
-    padding: 10px;
-}
-
-.thirdb {
-    width: calc(30vw - 20px);
-    position: absolute;
-    left: 30vw;
-    padding: 10px;
-}
-
-.thirdc {
-    width: calc(30vw - 20px);
-    position: absolute;
-    left: 60vw;
-    padding: 10px;
-}
-
 .s {
     text-align: center;
     position: absolute;
