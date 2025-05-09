@@ -111,3 +111,7 @@ button.a span.b p {
 button.a span.b small {
     font-size: 10px;
 }
+
+h1 {
+    font-weight: initial;
+}
