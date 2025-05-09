@@ -2,3 +2,27 @@ img.icon {
     width: 200px;
     height: 200px;
 }
+
+h1, p {
+    line-height: 1;
+}
+
+.thirda {
+    width: calc(30vw - 20px);
+    position: absolute;
+    padding: 10px;
+}
+
+.thirdb {
+    width: calc(30vw - 20px);
+    position: absolute;
+    left: 30vw;
+    padding: 10px;
+}
+
+.thirdc {
+    width: calc(30vw - 20px);
+    position: absolute;
+    left: 60vw;
+    padding: 10px;
+}

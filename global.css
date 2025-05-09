@@ -34,14 +34,12 @@ html, body {
 
 .halfa {
     width: calc(45vw - 20px);
-    height: calc(90vh - 120px);
     position: absolute;
     padding: 10px;
 }
 
 .halfb {
     width: calc(45vw - 20px);
-    height: calc(90vh - 120px);
     position: absolute;
     left: 45vw;
     padding: 10px;
