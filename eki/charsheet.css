@@ -3,7 +3,7 @@ img.icon {
     height: 200px;
 }
 
-h1, p {
+h1, h2, h3, p {
     line-height: 1;
 }
 
